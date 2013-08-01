@@ -194,10 +194,10 @@ newsimplegallery.routines={
 			interfaceHTML+='<img class="navimages" title="' + title + '" src="'+ imagesrc +'" style="'+imgstyle+'" /> '
 		}
 		interfaceHTML+='<div class="gallerystatus" style="margin-top:1px">' + (setting.curimage+1) + '/' + setting.imagearray.length + '</div>'
-		setting.$navpanel=$('<div class="navpanellayer"></div>')
+		setting.$navpanel=jQuery('<div class="navpanellayer"></div>')
 			.css({position:'absolute', width:'100%', height:setting.panelheight, left:0, top:setting.dimensions[1], font:simpleGallery_navpanel.panel.fontStyle, zIndex:'1001'})
 			.appendTo(setting.$wrapperdiv)
-		$('<div class="navpanelbg"></div><div class="navpanelfg"></div>') //create inner nav panel DIVs
+		jQuery('<div class="navpanelbg"></div><div class="navpanelfg"></div>') //create inner nav panel DIVs
 			.css({position:'absolute', left:0, top:0, width:'100%', height:'100%'})
 			.eq(0).css({background:'black', opacity:simpleGallery_navpanel.panel.opacity}).end() //"navpanelbg" div
 			.eq(1).css({paddingTop:simpleGallery_navpanel.panel.paddingTop, textAlign:'center', color:'white'}).html(interfaceHTML).end() //"navpanelfg" div
@@ -206,7 +206,7 @@ newsimplegallery.routines={
 	},
 
 	adddescpanel:function(setting){
-		setting.$descpanel=$('<div class="gallerydesc"><div class="gallerydescbg"></div><div class="gallerydescfg"><div class="gallerydesctext"></div></div></div>')
+		setting.$descpanel=jQuery('<div class="gallerydesc"><div class="gallerydescbg"></div><div class="gallerydescfg"><div class="gallerydesctext"></div></div></div>')
 			.css({position:'absolute', width:'100%', left:0, top:-1000, zIndex:'1001'})
 			.find('div').css({position:'absolute', left:0, top:0, width:'100%'})
 			.eq(0).css({background:'black', opacity:simpleGallery_navpanel.panel.opacity}).end() //"gallerydescbg" div
