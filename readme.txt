@@ -5,8 +5,8 @@ Author URI: http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/
 Plugin URI: http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/
 Tags: slideshow, gallery, images
 Requires at least: 3.2
-Tested up to: 3.6
-Stable tag: 6.0
+Tested up to: 3.8
+Stable tag: 6.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	
@@ -65,7 +65,6 @@ http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/
 
 http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/
 
-
 == Frequently Asked Questions ==
 
 **How to arrange the width & height of the slideshow?**  	
@@ -75,57 +74,35 @@ http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/
 **Not able to see next,previous,play button in the gallery?**  
 **All your question & suggestion go to moreinfo page?**  	
 	
-
 Click the below link to see answer for all questions!			
 More info : [click to go](http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/)
 
 == Screenshots ==
 
-1. Front screen.
+1. Front screen. http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/
 
-2. Admin setting screen.
+2. Admin setting screen. http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/
 
 == Upgrade Notice ==
 
 = 1.0 =		
+
 First version
 
 = 2.0 =	 
+
 Tested upto wp 3.2
 
 = 3.0 =	 
+
 Tested upto wp 3.3.1
 
 = 4.0 =
-Tested upto wp 3.43.1
 
-= 5.0 =
-New demo link, www.gopiplus.com
-
-= 6.0 =
-
-**Please backup your XML file before you update the plugin.
-Tested upto wp 3.6
-Avoid registering the alternate jQuery.
-Javascript added using enqueue script.
-From this version we are using existing wordpress jQuery.
-Slight change in the short code, Please find the new short code for your gallery.
-
-== Changelog ==
-
-= 1.0 =		
-First version
-
-= 2.0 =	 
-Tested upto wp 3.2
-
-= 3.0 =	 
-Tested upto wp 3.3.1
-
-= 4.0 =
 Tested upto wp 3.4.1
 
 = 5.0 =
+
 New demo link, www.gopiplus.com
 
 = 6.0 =
@@ -136,3 +113,48 @@ Avoid registering the alternate jQuery.
 Javascript added using enqueue script.
 From this version we are using existing wordpress jQuery.
 Slight change in the short code, Please find the new short code for your gallery.
+
+= 6.1 =
+
+**Please backup your XML file before you update the plugin.
+1. Tested up to 3.8
+2. Now this plugin supports localization (or internationalization). i.e. option to translate into other languages. 
+Plugin *.po file (new-simple-gallery.po) available in the languages folder. Translators Welcome.
+
+== Changelog ==
+
+= 1.0 =
+	
+First version
+
+= 2.0 =	
+
+Tested upto wp 3.2
+
+= 3.0 =	
+
+Tested upto wp 3.3.1
+
+= 4.0 =
+
+Tested upto wp 3.4.1
+
+= 5.0 =
+
+New demo link, www.gopiplus.com
+
+= 6.0 =
+
+**Please backup your XML file before you update the plugin.
+Tested upto wp 3.6
+Avoid registering the alternate jQuery.
+Javascript added using enqueue script.
+From this version we are using existing wordpress jQuery.
+Slight change in the short code, Please find the new short code for your gallery.
+
+= 6.1 =
+
+**Please backup your XML file before you update the plugin.
+1. Tested up to 3.8
+2. Now this plugin supports localization (or internationalization). i.e. option to translate into other languages. 
+Plugin *.po file (new-simple-gallery.po) available in the languages folder. Translators Welcome.

@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: New Simple Gallery\n"
+"POT-Creation-Date: 2014-01-07 21:45+0800\n"
+"PO-Revision-Date: 2014-01-07 21:45+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../new-simple-gallery.php:200 ../new-simple-gallery.php:292
+#: ../new-simple-gallery.php:302 ../new-simple-gallery.php:306
+#: ../new-simple-gallery.php:317 ../new-simple-gallery.php:318
+msgid "New Simple Gallery"
+msgstr ""
+
+#: ../new-simple-gallery.php:236
+msgid "Gallery setting"
+msgstr ""
+
+#: ../new-simple-gallery.php:238
+msgid "XML File (For widget)"
+msgstr ""
+
+#: ../new-simple-gallery.php:240
+msgid ""
+"Enter name of the XML file. XML file should available in the plugin "
+"directory."
+msgstr ""
+
+#: ../new-simple-gallery.php:242
+msgid "Random"
+msgstr ""
+
+#: ../new-simple-gallery.php:247
+msgid "Random image display."
+msgstr ""
+
+#: ../new-simple-gallery.php:249
+msgid "Title (For widget)"
+msgstr ""
+
+#: ../new-simple-gallery.php:251
+msgid "Enter enter widget title, Only for widget."
+msgstr ""
+
+#: ../new-simple-gallery.php:253
+msgid "Width (For widget)"
+msgstr ""
+
+#: ../new-simple-gallery.php:255
+msgid "Enter width of the gallery, Only for width. (Example: 200)"
+msgstr ""
+
+#: ../new-simple-gallery.php:257
+msgid "Height (For widget)"
+msgstr ""
+
+#: ../new-simple-gallery.php:259
+msgid "Enter height of the gallery, Only for height. (Example: 200)"
+msgstr ""
+
+#: ../new-simple-gallery.php:261
+msgid "Pause (Global setting)"
+msgstr ""
+
+#: ../new-simple-gallery.php:263
+msgid "Pause between slides. (Example: 2500)"
+msgstr ""
+
+#: ../new-simple-gallery.php:265
+msgid "Fade duration (Global setting)"
+msgstr ""
+
+#: ../new-simple-gallery.php:267
+msgid ""
+"The duration of the fade effect when transitioning from one image to the "
+"next, in milliseconds. (Example: 500)"
+msgstr ""
+
+#: ../new-simple-gallery.php:269
+msgid "Cycles (Global setting)"
+msgstr ""
+
+#: ../new-simple-gallery.php:271
+msgid ""
+"The cycles option when set to 0 will cause the slideshow to rotate "
+"perpetually,<br />while any number larger than 0 means it will stop after N "
+"cycles. (Example: 2)"
+msgstr ""
+
+#: ../new-simple-gallery.php:273
+msgid "Submit"
+msgstr ""
+
+#: ../new-simple-gallery.php:277
+msgid "Plugin configuration option"
+msgstr ""
+
+#: ../new-simple-gallery.php:279
+msgid "Add the plugin in the posts or pages using short code."
+msgstr ""
+
+#: ../new-simple-gallery.php:280
+msgid "Add directly in to the theme using PHP code."
+msgstr ""
+
+#: ../new-simple-gallery.php:281
+msgid "Drag and drop the widget to your sidebar."
+msgstr ""
+
+#: ../new-simple-gallery.php:283 ../new-simple-gallery.php:294
+msgid "Check official website for more information"
+msgstr ""
+
+#: ../new-simple-gallery.php:284 ../new-simple-gallery.php:295
+msgid "click here"
+msgstr ""
