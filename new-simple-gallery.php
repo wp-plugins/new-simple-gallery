@@ -3,8 +3,8 @@
 Plugin Name: New Simple Gallery
 Plugin URI: http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/
 Description: Want to display images as an automatic slideshow that can also be explicitly played or paused by the user? then use this New Simple Gallery. <strong>In future back up your existing new simple gallery XML files before update this plugin.</strong> 
-Author: Gopi.R
-Version: 6.1
+Author: Gopi Ramasamy
+Version: 6.2
 Author URI: http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/
 Donate link: http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/
 License: GPLv2 or later

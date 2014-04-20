@@ -5,8 +5,8 @@ Author URI: http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/
 Plugin URI: http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/
 Tags: slideshow, gallery, images
 Requires at least: 3.2
-Tested up to: 3.8
-Stable tag: 6.1
+Tested up to: 3.9
+Stable tag: 6.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	
@@ -14,8 +14,7 @@ Want to display images as an automatic slideshow that can also be explicitly pla
  
 == Description ==
 
-Check official website for Live demo and Video tutorial
-[http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/](http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/)
+Check official website for Live demo and Video tutorial [http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/](http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/)
 
 *   [Live Demo](http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/)	
 *   [Video Tutorial](http://www.gopiplus.com/work/wordpress-plugins-video-tutorial/)		
@@ -44,7 +43,7 @@ Want to display images as an automatic slideshow that can also be explicitly pla
 &lt;?php if (function_exists (nsg_show)) nsg_show(); ?&gt;			
 
 3. Use the below code to the page or post.			
-<code>[new-simple-gallery=filename=new-simple-gallery.xml&width=400&height=300]</code>
+<code>[new-simple-gallery filename="new-simple-gallery.xml" width="400" height="300"]</code>
 	
 filename = new-simple-gallery.xml		
 This is the name of the XML file gallery, this xml file should be available in plugin forder.		
@@ -121,6 +120,10 @@ Slight change in the short code, Please find the new short code for your gallery
 2. Now this plugin supports localization (or internationalization). i.e. option to translate into other languages. 
 Plugin *.po file (new-simple-gallery.po) available in the languages folder. Translators Welcome.
 
+= 6.2 =
+
+1. Tested up to 3.9
+
 == Changelog ==
 
 = 1.0 =
@@ -158,3 +161,7 @@ Slight change in the short code, Please find the new short code for your gallery
 1. Tested up to 3.8
 2. Now this plugin supports localization (or internationalization). i.e. option to translate into other languages. 
 Plugin *.po file (new-simple-gallery.po) available in the languages folder. Translators Welcome.
+
+= 6.2 =
+
+1. Tested up to 3.9
