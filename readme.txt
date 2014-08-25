@@ -5,8 +5,8 @@ Author URI: http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/
 Plugin URI: http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/
 Tags: slideshow, gallery, images
 Requires at least: 3.2
-Tested up to: 3.9
-Stable tag: 6.2
+Tested up to: 4.0
+Stable tag: 6.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	
@@ -25,9 +25,9 @@ In future back up your existing new simple gallery XML files before update this 
 
 Want to display images as an automatic slideshow that can also be explicitly played or paused by the user? New Simple Gallery rotates and displays an image by fading it into view over, with navigation controls that pop up when the mouse rolls over the Gallery.
 
-* Show images either as an automatic or manual slideshow.
-* All slide consists of an image that can be hyperlinked.
-* All slide can have a description associated with it.
+* 	Show images either as an automatic or manual slideshow.
+* 	All slide consists of an image that can be hyperlinked.
+* 	All slide can have a description associated with it.
 
 **This is the XML based slide show, so to add or delete the images.**	
 		
@@ -39,11 +39,9 @@ Want to display images as an automatic slideshow that can also be explicitly pla
 
 1. Go to widget menu and drag and drop the "New Simple Gallery" widget to your sidebar location.
 		 	
-2. Copy and past the below mentioned code to your desired template location.	
-&lt;?php if (function_exists (nsg_show)) nsg_show(); ?&gt;			
+2. Copy and past the below mentioned code to your desired template location. `<?php if (function_exists (nsg_show)) nsg_show(); ?>`
 
-3. Use the below code to the page or post.			
-<code>[new-simple-gallery filename="new-simple-gallery.xml" width="400" height="300"]</code>
+3. Use the below code to the page or post. `[new-simple-gallery filename="new-simple-gallery.xml" width="400" height="300"]`
 	
 filename = new-simple-gallery.xml		
 This is the name of the XML file gallery, this xml file should be available in plugin forder.		
@@ -52,29 +50,25 @@ This is width of the gallery.
 height = 300			
 This is the height of the gallery.			
 		
-See the live demo !		
-To see my all plugin : [click to go](http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/)	
-More info : [click to go](http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/)
-	
-http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/
-
 == Installation ==	
-
-**Installation Instruction & Configuration**  	
 
 http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/
 
 == Frequently Asked Questions ==
 
-**How to arrange the width & height of the slideshow?**  	
-**How to change the slide Fade Duration, Pause, Cycles?**  	
-**How to add more image?**  
-**How to edit imags & desctiption?**  
-**Not able to see next,previous,play button in the gallery?**  
-**All your question & suggestion go to moreinfo page?**  	
-	
-Click the below link to see answer for all questions!			
-More info : [click to go](http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/)
+1. How to arrange the width & height of the slideshow? 	
+
+2. How to change the slide Fade Duration, Pause, Cycles? 	
+
+3. How to add more image?
+
+4. How to edit imags & desctiption?
+
+5. Not able to see next,previous,play button in the gallery?
+
+6. All your question & suggestion go to moreinfo page?	
+			
+[Answer](http://www.gopiplus.com/work/2010/08/07/new-simple-gallery/)
 
 == Screenshots ==
 
@@ -124,6 +118,10 @@ Plugin *.po file (new-simple-gallery.po) available in the languages folder. Tran
 
 1. Tested up to 3.9
 
+= 6.3 =
+
+1. Tested up to 4.0
+
 == Changelog ==
 
 = 1.0 =
@@ -165,3 +163,7 @@ Plugin *.po file (new-simple-gallery.po) available in the languages folder. Tran
 = 6.2 =
 
 1. Tested up to 3.9
+
+= 6.3 =
+
+1. Tested up to 4.0
